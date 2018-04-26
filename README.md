@@ -1,3 +1,5 @@
 # hello-world
 
-I like bananas
+Hello fellow humans! :-)
+
+This is just something new that I thought I would try out.
